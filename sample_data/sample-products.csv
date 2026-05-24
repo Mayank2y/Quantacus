@@ -1,0 +1,4 @@
+sku_id,product_title,brand,category,price,mrp,availability,description,color,size,material,image_url
+SHOE001,Nike Blue Running Shoes,Nike,Shoes,3999,4999,in_stock,High-performance running shoes with breathable mesh upper and cushioned sole for maximum comfort.,Blue,10,Mesh,https://example.com/nike-shoe.jpg
+DRESS001,Red Summer Dress,Zara,Dresses,1799,2499,in_stock,Elegant red floral dress perfect for summer parties and casual outings.,Red,M,Cotton,https://example.com/red-dress.jpg
+BAG001,Puma Travel Backpack,Puma,Bags,1299,1999,in_stock,Durable polyester backpack with laptop compartment and water-resistant coating.,Black,One Size,Polyester,https://example.com/puma-bag.jpg
