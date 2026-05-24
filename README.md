@@ -4,6 +4,12 @@ An end-to-end MERN-style application for analyzing e-commerce product listings, 
 
 This project intentionally mocks the video extraction and competitor pricing flows for assignment/demo purposes. The backend simulates product data extraction from uploaded videos instead of calling a real computer-vision or AI service.
 
+## Live Links
+
+- Frontend: [https://quantacus.onrender.com](https://quantacus.vercel.app/)
+- Backend Health Check: https://quantacus.onrender.com/api/health
+- GitHub Repository: [https://github.com/Mayank2y](https://github.com/Mayank2y)
+
 ## Features
 
 - Product video upload with mocked extraction
@@ -28,6 +34,16 @@ This project intentionally mocks the video extraction and competitor pricing flo
 | Database | MongoDB with Mongoose |
 | Styling | Custom CSS |
 | Deployment | Vercel frontend, Render backend, MongoDB Atlas |
+
+## Demo Flow
+
+1. Open the frontend.
+2. Upload a product video.
+3. The backend mocks extraction and creates a processing job.
+4. Check job status on the Jobs page.
+5. View imported product on the Products page.
+6. Open product details to see validation issues, enhanced title, and competitor prices.
+7. Upload `sample_data/sample-products.csv` as CSV fallback.
 
 ## Project Structure
 
